@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Model {
     private Tile[][] gameTiles;
-    private static final int FIELD_WIDTH = 4;
+    private static final int FIELD_WIDTH = 5;
 
     int maxTile = 2;
     int score = 0;
