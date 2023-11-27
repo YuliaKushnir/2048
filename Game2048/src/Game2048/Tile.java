@@ -21,8 +21,8 @@ public class Tile {
             case 8: return new Color(0x048CCB);
             case 16: return new Color(0x4662D7);
             case 32: return new Color(0xf67c5);
-            case 64: return new Color(0x0747A6);
-            case 128: return new Color(0x64EFE2);
+            case 64: return new Color(0x0747A7);
+            case 128: return new Color(0x64EFE1);
             case 256: return new Color(0x1BCEBB);
             case 512: return new Color(0x1CE791);
             case 1024: return new Color(0x1FD25A);
